@@ -1,10 +1,10 @@
 # Dev160
-Welcome to my Python repository for Dev160 (Python Development).
-Each project focuses on different aspects of Python, from basic calculations to more complex algorithms.
+Welcome to my Python repository for Dev160 - Python I.<br/> 
+Each project focuses on different aspects of Python, from basic scripts to more complex algorithms.
 
-<br/>
-# Skills <br/>
-Upon completion of this course, I am now able to:<br/>
+
+# Skills
+Upon completion of this course, I understand how to:<br/>
 
 • Plan, design, and test an application using an integrated development environment.<br/>
 • Create applications using the language's syntax and document the application using comments.<br/>
