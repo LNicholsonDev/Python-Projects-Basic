@@ -3,7 +3,7 @@ Welcome to my Python repository for Dev160 (Python Development).
 Each project focuses on different aspects of Python, from basic calculations to more complex algorithms.
 
 <br/>
-# Skills
+# Skills <br/>
 Upon completion of this course, I am now able to:<br/>
 
 • Plan, design, and test an application using an integrated development environment.<br/>
