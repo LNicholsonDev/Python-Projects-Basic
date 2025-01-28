@@ -18,7 +18,7 @@ and store user-defined functions in modules.<br/>
 • Create and use a collection of data items as set by the data structures for the scripting language.<br/>
 
 <br/>
-**Projects:**
+# Projects
 
 (1) Net Pay Calculator 
 > About - Calculate net pay after taxes and deductions.
