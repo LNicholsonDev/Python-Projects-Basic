@@ -20,7 +20,7 @@ and store user-defined functions in modules.<br/>
 
 # Projects
 
-(1) Net Pay Calculator 
+**(1) Net Pay Calculator**
 > About - Calculate net pay after taxes and deductions.
 > Skill - Practice input/output handling, variables, and arithmetic.
 
