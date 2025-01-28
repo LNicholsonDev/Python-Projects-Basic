@@ -1,9 +1,22 @@
 # Dev160
-Welcome to my Python repository for Dev160 (Python Development)!
-This is a hand-picked collection of fun small projects made in Python 3.0. 
+Welcome to my Python repository for Dev160 (Python Development).
 Each assignment focuses on different aspects of Python, from basic calculations to more complex algorithms.
 
-**Assignments**
+# Skills
+Upon completion of this course, I am now able to:<br\>
+
+• Plan, design, and test an application using an integrated development environment.<br\>
+• Create applications using the language's syntax and document the application using comments.<br\>
+• Declare and use variables with the language's built-in datatypes, built-in functions, and
+understand their scope.<br\>
+• Use appropriate arithmetic, logical and comparison operators to develop complex expressions.<br\>
+• Use "If" statements and expressions to implement selection structures.<br\>
+• Use the "For" and "While" statements to invoke repetition structures.<br\>
+• Design programs that invoke and define functions utilizing input parameters and return values
+and store user-defined functions in modules.<br\>
+• Create and use a collection of data items as set by the data structures for the scripting language.<br\>
+
+**Projects:**
 
 (1) Net Pay Calculator 
 > About - Calculate net pay after taxes and deductions.
