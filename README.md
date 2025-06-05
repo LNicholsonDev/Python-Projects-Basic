@@ -1,4 +1,4 @@
-# Dev160
+# Python Projects - Basic
 Welcome to my Python repository for Dev160 - Python I.<br/> 
 Each project focuses on different aspects of Python, from basic scripts to more complex algorithms.
 
